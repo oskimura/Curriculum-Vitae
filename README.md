@@ -4,21 +4,20 @@
 
 |key|value|
 |---|-----|
-|Name|ふー　ばー (Foo Bar)|
-|Blog|[ふーばーブログ](http://foobar.blog.com)|
-|Twitter|[@foobar](https://twitter.com/foobar)|
+|Name|oskimura|
 
 ## スキル
 ### 言語
+- C
+- C++
 - Java
-- などなど
+- Scala
+- Erlang
 
 ### フレームワーク
 
-- Ruby on Rails
-- Laravel
-- Spring Boot
-- などなど
+- xitrum
+- spring
 
 ### その他
 
@@ -28,8 +27,6 @@
 
 - 日本語
   - ネイティブ
-- 英語
-  - かんたんな日常会話ができる
 
 ## 強み
 
