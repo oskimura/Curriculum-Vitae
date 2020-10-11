@@ -60,7 +60,7 @@ https://mobilus.co.jp/cast
 * [アルゴリズム勉強会](https://algorithm.connpass.com/)
 
 ### 過去の登壇資料
-* [Speaker Deck](Speaker Deckの自分の資料のページとか)
+* [Clean概説](https://www.slideshare.net/oskimura/clean-8554744)
 
 ### 執筆歴
 * [Erlangで言語処理系作成](https://www.amazon.co.jp/Erlang%E3%81%A7%E8%A8%80%E8%AA%9E%E5%87%A6%E7%90%86%E7%B3%BB%E4%BD%9C%E6%88%90-oskimura/dp/4873100593/ref=sr_1_4?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=erlang&qid=1602397288&s=books&sr=1-4)
