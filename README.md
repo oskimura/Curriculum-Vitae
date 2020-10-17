@@ -90,6 +90,25 @@ ErlangでSMIME暗号化を行うためにOpen SSLのAPIをErlangにラッパし�
 - フレームワーク Yaws ymirlib
 - DB MongoDB
 
+### 2010/1 - 2011/10: 株式会社Speee
+
+#### Speee platform
+
+Googleの集計したランキングや顧客情報を確認するプラットフォーム
+APサーバはJettyと社内システムで作成
+
+- 言語 Java
+- フレームワーク Jetty
+- DB MySQL
+
+
+#### ランキングアラートメール
+
+Googleで集計したランキングで大きな変動があったときに担当営業にメールで知らせる
+
+- 言語 Clojure
+- DB MySQL
+
 
 ## 課外活動
 
