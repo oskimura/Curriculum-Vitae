@@ -29,9 +29,11 @@
  - HDLによるCPU作成
  - 関数型言語によるコード設計
  - git (git flowで開発)
- - AWS (EC2 S3 Rout53)
+ - AWS (EC2 S3 Rout53 ClowdWatch)
+ - Atlas (MongoDB)
  - Linux 
  - メッセージパッシングによる並列システム設計
+ - 
  
 ## 言語
 
