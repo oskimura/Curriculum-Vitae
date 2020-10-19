@@ -85,6 +85,7 @@ ErlangでSMIME暗号化を行うためにOpen SSLのAPIをErlangにラッパし�
 - 言語 Erlang
 - フレームワーク ymirlib
 - その他 OpenSSL
+- C言語のコードをNIFでErlangにラッパする箇所を実装
 
 ##### サーバアラートシステム
 
@@ -95,6 +96,8 @@ ErlangでSMIME暗号化を行うためにOpen SSLのAPIをErlangにラッパし�
 - 言語 Erlang
 - フレームワーク Yaws ymirlib
 - DB MongoDB
+- MonogoDBのコレクション設計
+- Yawsによるバックエンド開発
 
 ### 2010/1 - 2011/10: 株式会社Speee
 
@@ -107,6 +110,8 @@ APサーバはJettyと社内システムで作成
 - フレームワーク Jetty
 - DB MySQL
 
+- JavaとJettyによるバックエンド開発
+
 
 #### ランキングアラートメール
 
@@ -114,6 +119,8 @@ Googleで集計したランキングで大きな変動があったときに担�
 
 - 言語 Clojure
 - DB MySQL
+- Clojureによるクローリング
+- MySQLのDB設計
 
 
 ## 課外活動
