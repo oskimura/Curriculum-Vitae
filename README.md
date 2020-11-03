@@ -5,7 +5,7 @@
 |key|value|
 |---|-----|
 |Name|oskimura|
-|email|oskimura@ gmail.com|
+|email|oskimura@gmail.com|
 
 ## スキル
 ### 言語
