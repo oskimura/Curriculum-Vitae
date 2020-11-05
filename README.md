@@ -156,6 +156,12 @@ Googleで集計したランキングで大きな変動があったときに担�
 ### 過去の登壇資料
 * [Clean概説](https://www.slideshare.net/oskimura/clean-8554744)
 
+### 制作アプリ
+
+## Android
+
+* [シンプルチェス](https://play.google.com/store/apps/details?id=com.mammoth.chess.oskimura)
+
 ### 執筆歴
 * [Erlangで言語処理系作成](https://www.amazon.co.jp/Erlang%E3%81%A7%E8%A8%80%E8%AA%9E%E5%87%A6%E7%90%86%E7%B3%BB%E4%BD%9C%E6%88%90-oskimura/dp/4873100593/ref=sr_1_4?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=erlang&qid=1602397288&s=books&sr=1-4)
 * [Qiita](https://qiita.com/oskimura)
